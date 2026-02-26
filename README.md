@@ -1,5 +1,6 @@
 # Apuntes-de-Clase-Unidad-1
 Unidad I. Introducción a la graficación por computadora
+
 1.1 Historia y evolución de la graficación por computadora
 La graficación por computadora ha evolucionado desde representaciones simples de líneas hasta entornos tridimensionales fotorrealistas en tiempo real.
 
