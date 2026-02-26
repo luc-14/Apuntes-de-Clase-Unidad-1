@@ -104,3 +104,9 @@ Se divide principalmente en dos tipos de operaciones:
 Operaciones de Punto: Alteran un píxel dependiendo únicamente de su valor original (por ejemplo, alterar el brillo o el contraste, o invertir colores mediante operaciones lógicas).
 
 Operaciones de Vecindad (Filtros Espaciales): Alteran un píxel basándose en los valores de los píxeles adyacentes. Esto se logra mediante un proceso matemático llamado convolución, utilizando una matriz pequeña llamada "kernel". Se usa para desenfoque (Blur), detección de bordes o enfoque.
+# Referencias Bibliográficas
+Hearn, D. y Baker, M. P. (2006). Gráficas por computadora con OpenGL (3.ª ed.). Pearson Educación.
+
+Universidad de Sevilla. (s.f.). Tema 1: Introducción a las Imágenes Digitales. Departamento de Ciencias de la Computación e Inteligencia Artificial. Recuperado de https://asignatura.us.es/imagendigital/Tema1.pdf
+
+Mozilla (MDN Web Docs). (2023). Gráficos en la web. Recuperado de https://developer.mozilla.org/es/docs/Learn/HTML/Multimedia_and_embedding/Images_in_HTML
