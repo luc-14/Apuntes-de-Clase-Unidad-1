@@ -2,6 +2,7 @@
 Unidad I. Introducción a la graficación por computadora
 
 1.1 Historia y evolución de la graficación por computadora
+
 La graficación por computadora ha evolucionado desde representaciones simples de líneas hasta entornos tridimensionales fotorrealistas en tiempo real.
 
 Años 50: El inicio se marca con el proyecto Whirlwind del MIT y el sistema SAGE de la Fuerza Aérea de EE. UU., que utilizaban tubos de rayos catódicos (CRT) para mostrar datos de radar como puntos y líneas.
@@ -15,6 +16,7 @@ Años 80 y 90: La llegada de las interfaces gráficas de usuario (GUI) y estánd
 Actualidad: Las Unidades de Procesamiento Gráfico (GPU) modernas permiten técnicas de Ray Tracing (trazado de rayos) en tiempo real y el uso de inteligencia artificial para la generación y escalado de imágenes (ej. DLSS).
 
 1.2 Áreas de aplicación
+
 La graficación es transversal a múltiples disciplinas:
 
 Simulación y Entrenamiento: Simuladores de vuelo, conducción y entornos médicos de Realidad Virtual (VR).
