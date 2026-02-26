@@ -61,3 +61,12 @@ Para comprender cómo la luz interactúa con los modelos (afectando la percepci�
 
 Preparación del entorno: Abre Blender. Por defecto, aparecerá un cubo en el centro del espacio de trabajo.
 <img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/c1037b19-362a-4c64-959a-0d355e2dc04c" />
+
+Cambiar la vista: Presiona la tecla Z y selecciona "Rendered" (Renderizado). Esto te permitirá ver la luz en tiempo real.
+<img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/59967ab6-f112-4503-b41f-1134190c981f" />
+
+Añadir iluminación: Presiona Shift + A, ve a la categoría "Light" y selecciona "Point" (Punto de luz).
+<img width="1919" height="1140" alt="image" src="https://github.com/user-attachments/assets/a0bf1552-7ac3-4236-8b43-e0ecd4de7257" />
+
+Posicionamiento: Usa la herramienta de movimiento (tecla G) para acercar la luz a una de las esquinas superiores del cubo. Verás cómo las caras más cercanas se iluminan y las opuestas proyectan sombra.
+<img width="1914" height="1143" alt="image" src="https://github.com/user-attachments/assets/88b76483-f035-40e7-b13c-660ae606f2c4" />
