@@ -42,3 +42,15 @@ Y la matriz para una rotación alrededor del origen por un ángulo $\theta$ es:
 <img width="307" height="125" alt="image" src="https://github.com/user-attachments/assets/f2c84b9a-7613-4db1-b202-5f624354d5ca" />
 
 En entornos 3D, estos conceptos se expanden a matrices de $4 \times 4$, incluyendo proyecciones ortogonales y de perspectiva para proyectar volúmenes en pantallas 2D.
+
+1.4 Modelos del color: RGB, CMY, HSV y HSL
+
+Los modelos de color son representaciones matemáticas que describen cómo se construyen los colores a partir de componentes básicos.
+
+RGB (Red, Green, Blue): Modelo aditivo usado en pantallas (monitores, teléfonos). La suma de los tres colores al máximo nivel produce luz blanca.
+
+CMY/CMYK (Cyan, Magenta, Yellow, Key/Black): Modelo sustractivo usado en impresión. La mezcla de tintas absorbe la luz. La "K" se añade porque la mezcla perfecta de CMY rara vez produce un negro puro en la impresión física.
+
+HSV (Hue, Saturation, Value): Define el color por su Tono (matiz), Saturación (pureza) y Valor (brillo). Es más intuitivo para la percepción humana.
+
+HSL (Hue, Saturation, Lightness): Similar al HSV, pero el eje de luminosidad va desde el negro (0%) hasta el blanco (100%), dejando el color puro en el 50%.
