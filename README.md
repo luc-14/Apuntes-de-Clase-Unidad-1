@@ -38,3 +38,5 @@ Para representar gráficos bidimensionales con la capacidad de trasladar, rotar 
 <img width="255" height="114" alt="image" src="https://github.com/user-attachments/assets/8519ddc7-671b-41f9-a4cc-10d54a692402" />
 
 Y la matriz para una rotación alrededor del origen por un ángulo $\theta$ es:
+
+$R = \begin{bmatrix} \cos(\theta) & -\sin(\theta) & 0 \\ \sin(\theta) & \cos(\theta) & 0 \\ 0 & 0 & 1 \end{bmatrix}$
