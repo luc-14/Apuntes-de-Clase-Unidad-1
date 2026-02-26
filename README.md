@@ -34,4 +34,4 @@ Interfaces de Usuario (UI): Entornos de escritorio, aplicaciones móviles y dise
 El motor detrás de la graficación por computadora es el álgebra lineal y la geometría analítica. Los objetos se definen en sistemas de coordenadas y se manipulan mediante transformaciones afines usando matrices.
 
 Para representar gráficos bidimensionales con la capacidad de trasladar, rotar y escalar uniformemente, se utilizan coordenadas homogéneas, que permiten expresar todas las transformaciones mediante la multiplicación de matrices de $3 \times 3$.Por ejemplo, la matriz para una traslación bidimensional por un vector $(t_x, t_y)$ es:
-$$T = \begin{bmatrix} 1 & 0 & t_x \\ 0 & 1 & t_y \\ 0 & 0 & 1 \end{bmatrix}$$
+<img width="255" height="114" alt="image" src="https://github.com/user-attachments/assets/8519ddc7-671b-41f9-a4cc-10d54a692402" />
