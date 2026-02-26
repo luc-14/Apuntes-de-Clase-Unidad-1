@@ -54,3 +54,10 @@ CMY/CMYK (Cyan, Magenta, Yellow, Key/Black): Modelo sustractivo usado en impresi
 HSV (Hue, Saturation, Value): Define el color por su Tono (matiz), Saturación (pureza) y Valor (brillo). Es más intuitivo para la percepción humana.
 
 HSL (Hue, Saturation, Lightness): Similar al HSV, pero el eje de luminosidad va desde el negro (0%) hasta el blanco (100%), dejando el color puro en el 50%.
+
+Tutorial: Iluminación de un cubo y sus caras en Blender
+
+Para comprender cómo la luz interactúa con los modelos (afectando la percepción del color y el volumen), sigue estos pasos prácticos:
+
+Preparación del entorno: Abre Blender. Por defecto, aparecerá un cubo en el centro del espacio de trabajo.
+<img width="1919" height="1137" alt="image" src="https://github.com/user-attachments/assets/c1037b19-362a-4c64-959a-0d355e2dc04c" />
