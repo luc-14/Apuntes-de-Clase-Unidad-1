@@ -36,3 +36,5 @@ El motor detrás de la graficación por computadora es el álgebra lineal y la g
 Para representar gráficos bidimensionales con la capacidad de trasladar, rotar y escalar uniformemente, se utilizan coordenadas homogéneas, que permiten expresar todas las transformaciones mediante la multiplicación de matrices de $3 \times 3$.Por ejemplo, la matriz para una traslación bidimensional por un vector $(t_x, t_y)$ es:
 
 <img width="255" height="114" alt="image" src="https://github.com/user-attachments/assets/8519ddc7-671b-41f9-a4cc-10d54a692402" />
+
+Y la matriz para una rotación alrededor del origen por un ángulo $\theta$ es:$$R = \begin{bmatrix} \cos(\theta) & -\sin(\theta) & 0 \\ \sin(\theta) & \cos(\theta) & 0 \\ 0 & 0 & 1 \end{bmatrix}$$
