@@ -1,5 +1,5 @@
 # Apuntes-de-Clase-Unidad-1
-Unidad I. Introducción a la graficación por computadora
+# Unidad I. Introducción a la graficación por computadora
 
 # 1.1 Historia y evolución de la graficación por computadora
 
