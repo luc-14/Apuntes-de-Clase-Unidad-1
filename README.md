@@ -28,3 +28,9 @@ Entretenimiento: Videojuegos, efectos visuales (VFX) en cine y animación 3D.
 Visualización Científica y de Datos: Representación de funciones matemáticas, fluidos, estructuras moleculares y análisis de Big Data.
 
 Interfaces de Usuario (UI): Entornos de escritorio, aplicaciones móviles y diseño web interactivo.
+
+1.3 Aspectos matemáticos de la graficación
+
+El motor detrás de la graficación por computadora es el álgebra lineal y la geometría analítica. Los objetos se definen en sistemas de coordenadas y se manipulan mediante transformaciones afines usando matrices.
+
+Para representar gráficos bidimensionales con la capacidad de trasladar, rotar y escalar uniformemente, se utilizan coordenadas homogéneas, que permiten expresar todas las transformaciones mediante la multiplicación de matrices de $3 \times 3$.Por ejemplo, la matriz para una traslación bidimensional por un vector $(t_x, t_y)$ es:
