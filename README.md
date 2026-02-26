@@ -70,3 +70,15 @@ Añadir iluminación: Presiona Shift + A, ve a la categoría "Light" y seleccion
 
 Posicionamiento: Usa la herramienta de movimiento (tecla G) para acercar la luz a una de las esquinas superiores del cubo. Verás cómo las caras más cercanas se iluminan y las opuestas proyectan sombra.
 <img width="1914" height="1143" alt="image" src="https://github.com/user-attachments/assets/88b76483-f035-40e7-b13c-660ae606f2c4" />
+
+Propiedades de la luz: Con la luz seleccionada, ve al panel de propiedades (lado derecho), haz clic en el ícono del foco verde. Cambia el "Power" (Poder) a 1000 W y modifica el "Color" a un tono azul o rojo (usando la rueda de color RGB/HSV) para observar cómo rebota la luz en el material gris por defecto.
+<img width="1919" height="1139" alt="image" src="https://github.com/user-attachments/assets/703f1208-ab99-48a2-a4e9-7dc47ebc36e4" />
+
+Iluminación de caras específicas (Spot): Para iluminar solo una cara, cambia el tipo de luz en ese mismo panel de Point a "Spot". Usa la herramienta de rotación (tecla R) para apuntar el cono de luz directamente a la cara frontal del cubo.
+<img width="1918" height="1138" alt="image" src="https://github.com/user-attachments/assets/99043b90-cedc-480e-878b-4de5eb0fea53" />
+
+1.5 Representación y trazo de líneas y polígonos
+
+A nivel de hardware, una pantalla es una cuadrícula de píxeles. Trazar una línea continua implica determinar qué píxeles discretos deben encenderse para aproximar mejor esa trayectoria (rasterización). Esto se logra mediante algoritmos como el DDA (Analizador Diferencial Digital) y el Algoritmo de Bresenham (que utiliza solo aritmética entera para mayor velocidad).
+
+Los polígonos se representan como secuencias de vértices conectados por aristas (líneas). El relleno de estos polígonos requiere algoritmos de "escaneo de líneas" (scan-line), que determinan qué píxeles se encuentran dentro de los límites matemáticos de la figura.
