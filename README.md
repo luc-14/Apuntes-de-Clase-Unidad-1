@@ -39,4 +39,6 @@ Para representar gráficos bidimensionales con la capacidad de trasladar, rotar 
 
 Y la matriz para una rotación alrededor del origen por un ángulo $\theta$ es:
 
-$R = \begin{bmatrix} \cos(\theta) & -\sin(\theta) & 0 \\ \sin(\theta) & \cos(\theta) & 0 \\ 0 & 0 & 1 \end{bmatrix}$
+<img width="307" height="125" alt="image" src="https://github.com/user-attachments/assets/f2c84b9a-7613-4db1-b202-5f624354d5ca" />
+
+En entornos 3D, estos conceptos se expanden a matrices de $4 \times 4$, incluyendo proyecciones ortogonales y de perspectiva para proyectar volúmenes en pantallas 2D.
